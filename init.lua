@@ -97,7 +97,7 @@ minetest.register_chatcommand("bmdel", {
 
 minetest.register_chatcommand("bmls", {
 	params = "<bookmark name>",
-	description = "List bookmarks",
+	description = "List all your bookmarks",
 	func = function(name, param)
 		if GONETWORK[name] == nil then
 			minetest.chat_send_player(name, "You have no bookmarks")
