@@ -6,7 +6,7 @@ Minetest mod to keep location bookmarks.  This is a drastic improvment over [mau
 
 It features a better command set: `bm` for **b**ook**m**arks, and is player-specific.
 
-The data file is incompatible with mauvebic's bookmarks, but it uses a different filename, `bookmarks.dat` so in theory they should work at the same time.
+The data file is incompatible with mauvebic's bookmarks, but it uses a different filename, `bookmarks.dat` so in theory they should work at the same time, but they both have the same name (but mine's better).
 
 To convert your \*.go file, file and replace:
 
