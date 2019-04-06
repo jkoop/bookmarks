@@ -1,5 +1,7 @@
 # Bookmarks
 
+Licence: [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+
 Minetest mod to keep location bookmarks.  This is a drastic improvment over [mauvebic](https://forum.minetest.net/viewtopic.php?id=2321)'s [bookmarks](https://github.com/cornernote/minetest-megapack/tree/master/mods/bookmarks).
 
 It features a better command set: `bm` for **b**ook**m**arks, and is player-specific.
