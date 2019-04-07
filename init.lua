@@ -49,6 +49,10 @@ minetest.register_chatcommand("bmset", {
 	description = "Set a bookmark",
 	func = function(name, param)
 		local target = minetest.env:get_player_by_name(name)
+		if param == "" then
+			minetest.chat_send_player(name, "Nameless bookmark rename to \"nil\"")
+			param = "nil"
+		end
 		if target then
 			if GONETWORK[name] == nil then
 				GONETWORK[name] = {}
