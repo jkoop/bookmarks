@@ -1,6 +1,8 @@
-------------------------------------------
---  [Bookmarks]  rewritten by Joe Koop  --
-------------------------------------------
+-----------------------------------------------
+--  Bookmarks v0.1.0 rewritten by Joe Koop   --
+--  Copyright 2019 and MIT licence Joe Koop  --
+--  https://joekoop.com/bookmarks/           --
+-----------------------------------------------
 
 function round(n)
 	return n % 1 >= 0.5 and math.ceil(n) or math.floor(n)
