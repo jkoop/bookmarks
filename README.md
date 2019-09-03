@@ -1,5 +1,7 @@
 # Bookmarks
 
+Minetest mod to keep location bookmarks like sethome https://joekoop.com/bookmarks/
+
 Licence: MIT
 
 Minetest mod to keep location bookmarks.  This is a drastic improvment over [mauvebic](https://forum.minetest.net/viewtopic.php?id=2321)'s [bookmarks](https://github.com/cornernote/minetest-megapack/tree/master/mods/bookmarks).
