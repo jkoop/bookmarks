@@ -1,5 +1,5 @@
 -----------------------------------------------
---  Bookmarks v0.1.0 rewritten by Joe Koop   --
+--  Bookmarks v0.1.1 rewritten by Joe Koop   --
 --  Copyright 2019 and MIT licence Joe Koop  --
 --  https://joekoop.com/bookmarks/           --
 -----------------------------------------------
