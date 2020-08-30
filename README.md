@@ -1,6 +1,6 @@
 # Bookmarks
 
-Minetest mod to keep location bookmarks like sethome https://joekoop.com/bookmarks/
+Minetest mod to keep location bookmarks like sethome https://joekoop.com/bookmarks
 
 Licence: MIT
 
