@@ -1,5 +1,13 @@
 # Bookmarks
 
+## :warning: NOTICE
+
+This mod has moved to [jkoop/better-bookmarks](https://github.com/jkoop/better-bookmarks).
+
+This old copy is here only because GitHub doesn't like redirecting stuff and I didn't want you to get a 404.
+
+## Old ReadMe
+
 Minetest mod to keep location bookmarks like sethome https://joekoop.com/bookmarks
 
 Licence: MIT
