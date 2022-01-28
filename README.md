@@ -8,7 +8,7 @@ This old copy is here only because GitHub doesn't like redirecting stuff and I d
 
 ## Old ReadMe
 
-Minetest mod to keep location bookmarks like sethome https://joekoop.com/bookmarks
+Minetest mod to keep location bookmarks like sethome
 
 Licence: MIT
 
