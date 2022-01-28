@@ -4,6 +4,15 @@
 --  https://joekoop.com/bookmarks/           --
 -----------------------------------------------
 
+--[[ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!  bookmarks has been replaced. Please use    !!
+!!  better_bookmarks from ContentDB or         !!
+!!  https://github.com/jkoop/better-bookmarks  !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ]]
+
+-- notify admin of replacement mod
+minetest.log("error", "[bookmarks] bookmarks has been replaced. Please use better_bookmarks from ContentDB or <https://github.com/jkoop/better-bookmarks>")
+
 function round(n)
 	return n % 1 >= 0.5 and math.ceil(n) or math.floor(n)
 end
